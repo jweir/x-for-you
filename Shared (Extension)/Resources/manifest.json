@@ -3,7 +3,7 @@
     "default_locale": "en",
 
     "name": "𝕏𝟜𝕌",
-    "description": "Prevents the \"For You\" link from being selected on Twitter, currently called X.  Once installed, when the site tries to load \"For You\" this extension will switch to the timeline.",
+    "description": "Disables the \"For You\" on X.com. If the site tries to load \"For You\" this your will be switched to the timeline.",
     "version": "1.0",
 
     "icons": {
@@ -16,7 +16,7 @@
 
     "content_scripts": [{
         "js": [ "content.js" ],
-        "matches": [ "*://*.x.com/home" ]
+        "matches": [ "*://*.x.com/*" ]
     }],
 
     "action": {
