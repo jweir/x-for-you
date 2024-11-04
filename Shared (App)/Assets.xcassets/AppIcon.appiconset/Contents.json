@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "toolbar-icon.png",
+      "filename" : "Asset 4.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -64,17 +64,19 @@
       "size" : "256x256"
     },
     {
-      "filename" : "toolbar-icon-512.png",
+      "filename" : "Asset 4-512.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
     },
     {
+      "filename" : "Asset 4-512 1.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "512x512"
     },
     {
+      "filename" : "Asset 5.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"

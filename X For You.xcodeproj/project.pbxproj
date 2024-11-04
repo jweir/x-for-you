@@ -9,6 +9,10 @@
 /* Begin PBXBuildFile section */
 		B15B2E832CC0C4950007F4CE /* X For You Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = B15B2E822CC0C4950007F4CE /* X For You Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		B15B2E8D2CC0C4950007F4CE /* X For You Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = B15B2E8C2CC0C4950007F4CE /* X For You Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B1C548F62CC31C29003B7F3E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = B1C548F52CC31C29003B7F3E /* PrivacyInfo.xcprivacy */; };
+		B1C548F72CC31C29003B7F3E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = B1C548F52CC31C29003B7F3E /* PrivacyInfo.xcprivacy */; };
+		B1C548F82CC31C29003B7F3E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = B1C548F52CC31C29003B7F3E /* PrivacyInfo.xcprivacy */; };
+		B1C548F92CC31C29003B7F3E /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = B1C548F52CC31C29003B7F3E /* PrivacyInfo.xcprivacy */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +62,7 @@
 		B15B2E762CC0C4950007F4CE /* X For You.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "X For You.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B15B2E822CC0C4950007F4CE /* X For You Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "X For You Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B15B2E8C2CC0C4950007F4CE /* X For You Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "X For You Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B1C548F52CC31C29003B7F3E /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -227,6 +232,7 @@
 		B15B2E472CC0C4940007F4CE = {
 			isa = PBXGroup;
 			children = (
+				B1C548F52CC31C29003B7F3E /* PrivacyInfo.xcprivacy */,
 				B15B2E4C2CC0C4940007F4CE /* Shared (App) */,
 				B15B2E552CC0C4950007F4CE /* Shared (Extension) */,
 				B15B2E662CC0C4950007F4CE /* iOS (App) */,
@@ -394,6 +400,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1C548F62CC31C29003B7F3E /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -401,6 +408,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1C548F72CC31C29003B7F3E /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -408,6 +416,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1C548F82CC31C29003B7F3E /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,6 +424,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1C548F92CC31C29003B7F3E /* PrivacyInfo.xcprivacy in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
